@@ -56,3 +56,6 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 /.idea/
+/ConsoleApp1/.vs/ConsoleApp1/v18/.suo
+/ConsoleApp1/.vs/ConsoleApp1/v18/DocumentLayout.backup.json
+/ConsoleApp1/.vs/ConsoleApp1/v18/DocumentLayout.json
